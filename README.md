@@ -7,8 +7,8 @@ It is where a random bloke on the internet do free labour as a amature data scie
 As of right now and into the forseeable future, Project Lumière **will not** be accepting any form of material donation. If you want to support Project Lumière, you could either contribute to the codebase or let me know that what I do here is not complete garbage.
 
 ## Why is it called Project Lumière?
-Simple answer: named after some cute anime girl vtuber
-Lengthier answer: I belief in open sourcing stuff. I belief science and art should be free of social-political barrier. I ain't no artist but maybe maybe maybe I can get some science out to the world, similar to shining light into places where it would be dark otherwise. 
+-Simple answer: named after some cute anime girl vtuber
+-Lengthier answer: I belief in open sourcing stuff. I belief science and art should be free of social-political barrier. I ain't no artist but maybe maybe maybe I can get some science out to the world, similar to shining light into places where it would be dark otherwise. 
 
 ## Disclaimer
 I am not a professional data scientist. Use Project Lumière at your own risk.
